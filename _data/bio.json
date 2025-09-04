@@ -45,13 +45,22 @@
       "studyType": "A.S.",
       "startDate": "2020",
       "endDate": "2022",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Diablo Valley College",
+      "area": "Information and Computer Technology",
+      "studyType": "A.S.",
+      "startDate": "2020",
+      "endDate": "2022",
       "area": "Japanese Language",
       "studyType": "A.S.",
       "startDate": "2022",
       "endDate": "2024",
       "courses": [
       ]
-    },
+    }
   ],
   "work": [
     {
