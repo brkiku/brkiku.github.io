@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
 
-##
+## 
 Learning a new language is hard. Whether it's a foreign language or a new coding language, I've always struggled with wrapping my head around the different semantics, writing rules, and general structure. In this case, with Typescript, I spent the last couple of weeks in what was essentially a crash course learning the basics. 
 
 ### My Coding Background
