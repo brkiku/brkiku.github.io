@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3ds.jpeg
+image: img/3ds.jpg
 title: "3DS on the Computer Screen"
 date: 2022
 published: true
