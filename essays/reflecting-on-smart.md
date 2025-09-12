@@ -14,11 +14,7 @@ labels:
 
 ## Why Ask Smart Questions
 
-In coding, I think we've all had a time when we were stuck on something. It could've been code that wasn't compiling correctly, or even just trying to figure out a code snippet. So we go onto Google and search up our problem. One of the first results is a Stack Overflow question that has almost the same, if not exact, wording for a problem you're having. You click on it to see the question and answer you've been waiting for,
-.
-.
-.
-and then you read the post and your hopes are dashed because the posted question was asked in a way that made it near impossible to answer (for example, they won't say what's wrong with the code or what problem they're having with their current code.) The reason we ask smart questions is to not only make it easier for others to answer, but also to make it easier for people after us, who have the same question, to find the solution.  
+In coding, I think we've all had a time when we were stuck on something. It could've been code that wasn't compiling correctly, or even just trying to figure out a code snippet. So we go onto Google and search up our problem. One of the first results is a Stack Overflow question that has almost the same, if not exact, wording for a problem you're having. You click on it to see the question and answer you've been waiting for... and then you read the post and your hopes are dashed because the posted question was asked in a way that made it near impossible to answer (for example, they won't say what's wrong with the code or what problem they're having with their current code.) The reason we ask smart questions is to not only make it easier for others to answer, but also to make it easier for people after us, who have the same question, to find the solution.  
 
 ## What’s a smart question?
 
