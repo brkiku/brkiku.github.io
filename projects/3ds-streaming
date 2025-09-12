@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: img/3ds.jpeg
+title: "3DS on the Computer Screen"
+date: 2022
+published: true
+labels:
+  - Hardware Modification
+  - Software Installation
+  - Troubleshooting
+summary: "A little project to save my eyes"
+---
+
+In 2022, with the announcement of the phased closing of the 3DS eShop, I had decided to take the increasingly retro console and give it a little glow-up. By that, I added the ability to stream it to my PC, because having the ability to stream my games on a pc monitor is much easier on the eyes than staring at the small screen. 
+
+To be perfectly clear, while I did get custom firmware (cfw) for my 3DS for this project, I DO NOT AND HAVE NEVER PIRATED ANYTHING ON IT. 
+
+I went online, and since I had an older 3DS, followed [this guide](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445). This project required me to download multiple applications on both my 3DS and my PC, requiring Python, Luma3DS, bootNTR, along with streaming applications like OBS. Fortunately, with an older guide in more modern times, the recommended specs for routers were under what I had, so I ended up with slightly better performance than what I was expecting. I also ran into some problems with the installation of the cfw and ntr on my 3DS, and had to reference the FAQs to troubleshoot. 
+
+I didn't really learn much from this in the traditional sense, as I followed a step-by-step guide. However, I do feel that the skills of curiosity and tinkering with the 3DS did help influence my passion for computers and wanting to dive more into studying computers and technology. I still occasionally use the 3DS, though at this point it likely needs a new battery and memory card. 
