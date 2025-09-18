@@ -14,7 +14,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
 
 ## Languages Are Hard
-Learning a new language is hard. Whether it's a foreign language or a new coding language, I've always struggled with wrapping my head around the different semantics, writing rules, and general structure. In this case I spent the last couple of weeks in what was essentially a crash course learning the basics of Typescript. 
+Learning a new language is hard. Whether it's a foreign language or a new coding language, I've always struggled with wrapping my head around the different semantics, writing rules, and overall general structure. Typescript is no different, as I spent these last couple of weeks in what was essentially a crash course learning the basics. It was challenging, but yet I feel that it was worthwhile because of how it not only humbled me, but also helped me figure out how I learn best.
 
 ### My Coding Background
 I have previous experience in various coding languages. In community college, I learned the basics of Python and became fairly experienced in C++. I then transferred here to the University of Hawaii, where I continued to add to my skillset by picking up Java and now Typescript. While not proficient, I feel that I have a good foundation and know the basics of this language.
