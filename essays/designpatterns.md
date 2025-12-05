@@ -16,4 +16,4 @@ In order to create clear boundaries for different types of API functionality, we
 Looking back, these patterns didn't come from any design document or WOD instruction, but were instead created as solutions to the problems we had in our app. Component composition gave us flexible parts, lazy loading helped performance, and separation of concerns helped clean data sharing and calls. Just like how floor plans make choosing the right apartment easier, design patterns are created to solve common problems in software. While this concept was taught in class, experiencing the creation of design patterns firsthand in my project helped me learn how to recognize them. And that's not because I'm forcing these patterns into my code, but rather because they're solutions created to solve the problems in my code.
 
 
-Disclosure of AI: AI was used to help identify design patterns and help decide on an analogy to use.
+Disclosure of AI: AI was used to help identify design patterns
