@@ -1,0 +1,26 @@
+---
+layout: essay
+type: essay
+title: "Determining the Differences in Coding Estimation and Execution"
+date: 2025-12-14
+labels:
+  - Software Engineering
+  - Web Development
+  - Effort Estimation
+  - Nextjs
+---
+
+# The Process Behind my Estimations
+ A lot of my estimations were for the most part, overestimates. I wanted to give myself extra time in estimating the work done because I have issues sitting and staring at a screen for extended periods of time. Due to this, I would start off with a rough estimate based on the difficulty and familiarity with what the work task was, and then pad my time by increments of 10 minutes based on how focused I believed I could be while working on the task. However, as I gained more experience and actual timing data based on previous work done, my estimates changed from pure conjecture to being based upon my previous performance (for example: my estimates in earlier iterations of the software project were used as baselines for later issues.)  
+
+## Perks of Estimating in Advance
+Estimating my time in advance was useful because it forced me to block off chunks of time purely to focus on coding. I was forced to plan ahead and not leave my issues until the very last minute. In a group project setting, this is especially important, as other team members could potentially be left waiting for updates to my code before they could make adjustments and test their own commits. In addition, estimating my time before I got to work helped me stay more calm throughout the coding process. There were times in coding, specifically in creating API routes and dynamic components, that I would get frustrated and feel that I was behind on time. However, with the extra padded time I gave myself, I was able to take short breaks to cool off and compose myself before continuing on work, which also helped me stay within my estimates. 
+
+## The Usefulness of Tracking Effort
+I found tracking effort quite useful specifically when it came to determining future estimations. At first, I tried to overestimate my time so that I could hopefully complete the tasks and issues tackled in a shorter than expected time. However, I was almost always consistently at or above the estimated time, which was humbling in a way. It specifically helped me realize all the extra time that I would need to complete tasks, as I didn't account for debugging, compiling, or verification times. This was especially important in later iterations of the group software project as it involved more intricate components and API routes. Tracking my effort was also beneficial mentally, as it gave me a certain sense of pride when I found I completed my issue within my estimation.
+## How I Tracked my Effort
+For the most part, my effort was tracked using rough estimates from my desktop clock, noting when I started and ended working on a task, in addition with GitHub's project management board. Coding time recorded was time spent on VSCode writing code, debugging, and integrating code. Non-coding time was most notably time spent taking breaks, but also included time spent on GitHub waiting for verification and deployments of branches, and testing. For the most part, these were fairly accurate, however, I believe that I may have undercut my non-coding time as other than setting a timer for scheduled breaks away from coding,  I didn't really keep track of the other aspects of non-coding time. I also rounded up/down on my minutes, but I overall believe it's generally accurate in terms of effort distribution.  
+## Reflection 
+Overall, I think I would change my estimation and tracking to be better recorded instead of going off of vibes and rough estimates. In the future, I would break up my issues into smaller problems, as my estimates tended to be heavy handed. While the data recorded shows that I generally was around my estimated time, a lot wasn't really recorded in a good way. In the future I would, at minimum, use a stopwatch instead of a timer to track non-coding time, which would give a more accurate representation of the split between coding and non-coding time. I didn't use AI tools for estimating or tracking effort, however throughout the software engineering project, I did utilize ClaudeAI (Sonnet 4.5) for partial code completion, reformatting, testing, and debugging support. Most of the prompts were requested using natural-language queries. Examples of prompts used include "In the following API route for [component]'s route.ts, help validate and fix the routes properly and links to page" and "Create Prisma schema models for messaging functionality between users. Messaging functionality includes read and send fields and also updates based on the user's matches"  Almost all responses needed to be corrected to follow ESLint conventions, but all API route support prompts were accepted as-is for testing purposes. More corrections/prompting was used on an as-needed basis afterwards, as the Sonnet model works well on code completion and reformatting. Overall, tracking estimation is quite helpful for project management and while there are aspects that I would like to fix for the next time, the experience gained from this will be helpful for future estimations and workflow planning.
+
+Disclosure of AI: This essay used AI for grammar checking.
