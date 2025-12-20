@@ -10,7 +10,7 @@ labels:
   - Vercel
   - Final Project
 summary: "My team developed a roommate matching web application for UH Manoa students."
-image_style: "max-width: 80%; margin: 0 auto; display: block;"
+image_style: "max-width: 30%; margin: 0 auto; display: block;"
 ---
 
 <div class="text-center p-4">
