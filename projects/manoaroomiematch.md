@@ -21,8 +21,8 @@ Manoa RoomieMatch is a web application that provides students at the University 
 
 # Personal Contributions
 <div class="text-center p-4">
-  <img width="200px" src="../img/manoamatch/compatibility2_m2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/manoamatch/message_m3.png" class="img-thumbnail" >
+  <img width="400px" src="../img/manoamatch/compatibility2_m2.png" class="img-thumbnail" >
+  <img width="400px" src="../img/manoamatch/message_m3.png" class="img-thumbnail" >
 </div>
 My contributions to this project spanned both front-end and back-end software development. On the front end, I designed the match compatibility page and updated the messaging page's design from mockup to implementation. On the backend, I developed the components for the match comparison page and its API routes, as well as the backend API routes for messaging functionality on the messaging page. I also helped update the Prisma database to hold the data for the messaging and compatibility pages, in addition to implementing a basic matching algorithm that calculated "compatibility scores" for all users whenever a new user joined or an existing user updated their lifestyle survey.  
 
