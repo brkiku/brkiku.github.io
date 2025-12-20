@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoamatch/manoalogo.png
+image: img/manoamatch/manoalogo.jpeg
 title: "UH Manoa RoomieMatch"
 date: 2025
 labels:
