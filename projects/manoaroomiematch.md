@@ -10,6 +10,7 @@ labels:
   - Vercel
   - Final Project
 summary: "My team developed a roommate matching web application for UH Manoa students."
+image_style: "max-width: 80%; margin: 0 auto; display: block;"
 ---
 
 <div class="text-center p-4">
@@ -17,7 +18,7 @@ summary: "My team developed a roommate matching web application for UH Manoa stu
 </div>
 
 # Introduction
-Manoa RoomieMatch is a web application that provides students at the University of Hawaii with AI-enhanced roommate matching. Students create an account using their UH email and fill out a lifestyle survey, covering sleep habits, cleanliness, and other aspects of roommate living. The application then compares user profiles to generate a compatibility score, along with an AI-generated explanation describing areas of alignment and potential conflict. These students can browse matches, view detailed comparisons, and connect with peers they’re compatible with. Progress was measured via "milestones," where each milestone was a new or updated iteration of the web application
+[Manoa RoomieMatch](https://manoaroomiematch.vercel.app/) is a web application that provides students at the University of Hawaii with AI-enhanced roommate matching. Students create an account using their UH email and fill out a lifestyle survey, covering sleep habits, cleanliness, and other aspects of roommate living. The application then compares user profiles to generate a compatibility score, along with an AI-generated explanation describing areas of alignment and potential conflict. These students can browse matches, view detailed comparisons, and connect with peers they’re compatible with. Progress was measured via "milestones," where each milestone was a new or updated iteration of the web application
 
 # Personal Contributions
 <div class="text-center p-4">
