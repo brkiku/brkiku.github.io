@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C++", "Java", "JavaScript", "TypeScript" ]
+      "keywords": ["C++", "Java", "JavaScript", "TypeScript", "Next.js", "Bootstrap5" ]
     },
     {
       "name": "Toolsets/OS",
@@ -68,8 +68,8 @@
       "position": "Cybersecurity Intern",
       "website": "",
       "startDate": "2025-08-25",
-      "endDate": "Present",
-      "summary": "Cybersecurity intern researching real-world issues with industry partners"
+      "endDate": "2025-12-15",
+      "summary": "Cybersecurity intern researching real-world issues with industry partners. Worked on a project researching different AI privacy-protecting methods and initiatives."
       
     },
   ],
