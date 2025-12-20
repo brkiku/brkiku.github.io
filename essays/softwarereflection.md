@@ -1,0 +1,29 @@
+---
+layout: essay
+type: essay
+title: "So what is Software Engineering Anyway?"
+date: 2025-12-19
+labels:
+  - Software Engineering
+  - reflection
+  - coding standards
+---
+# Introduction
+Throughout the software engineering course taken at the University of Hawaii at Manoa, I learned more than just coding concepts and integration of software development in web applications, but also learned fundamental software engineering concepts that extend beyond just coding. In particular, I gained valuable experience with coding standards, project management, and finally, software engineering ethics. These concepts not only shaped how I view web development, but also what I think software engineering is in a broader sense. 
+# Coding Standards
+Coding standards are essential for creating code that makes software both readable and maintainable. In other words, coding standards are designed so that written code is consistent and readable, so that anyone who looks at it can understand and build upon it without needing to spend extra time studying the code. These standards range from naming conventions, indentation styles, and the use of comments. By following these standards, developers avoid writing spaghetti or otherwise unreadable code that is disorganized and hard to maintain. In the class, one of the tools we used to maintain our coding standards was ESLint, which is a code analysis tool for JavaScript and TypeScript. ESLint helped identify potential issues in our code, including inconsistent formatting, trailing spaces, unused variables, and other errors in logic. Using ESLint ensured that the code followed a consistent style and ruleset, which was especially important for working together in a team during the group final project. Since our final project was an application built using Next.js, having clean and well-structured code was nearly required for collaboration and debugging.
+Even though coding standards are extremely helpful in web applications and software development, the principles of these standards apply to more than that. For example, working with Next.js, React, and TypeScript helped me create more structured code that adhered to coding best practices. This understanding is important in all parts of the software engineering field, including game development and system programming. 
+
+# Project Management
+Software engineering is more than just programming. Another important aspect is how to have "people skills," which include collaboration with others. In the class, we learned about Agile Project Management, which is a methodology that promotes flexibility and iterative development. It divides projects into "sprints," or small, more manageable parts, where each sprint has a piece of the overall project as an end deliverable. This methodology allows teams to quickly accommodate change and improve collaboration between team members. During the final project, we specifically used a style of Agile called IDPM, or Issue-Driven Project Management. IDPM involves breaking down tasks into specific issues or features, and then using tools to track progress and assign responsibilities. This was used to help keep our team organized and ensure that we were working on important tasks for the project milestones we had set. IDPM allowed us to break down our complex final project and Vercel application into smaller, more achievable goals while working on a less strenuous time and resource crunch.
+Beyond web applications, Agile and IDPM are relevant to all software projects. Using project management skills, developers can help manage tasks and project timelines more effectively. Agile is especially useful in environments where larger collaborations amongst multiple teams are essential.
+
+# Ethics
+Ethics in software engineering is about making responsible choices that affect the end user, teams, and the general community. As developers, we are responsible for creating products that are not only fair, secure, and respectful of resources and privacy. Especially in today's world, where software impacts every aspect of our lives, this concept is essential. For example, when creating our databases in PostgreSQL and Prisma to manage our user data, we had to consider how to protect the users' data and ensure privacy. These kinds of considerations apply to all forms of software development, especially now with the increased use and development of AI. Developers must now ensure that algorithms are fair, transparent, and avoid bias as much as possible. 
+Additionally, software ethics also involves recognizing the impact of the software we create. Software has to be designed to be accessible and user-friendly. For example, in creating UI with React or Bootstrap5, I learned that user accessibility is a major key to software design, ensuring that all users can interact with the product. These considerations translate outside of just application design, as software design in general has to ensure data security, fairness, and be designed with accessibility in mind. 
+
+# Conclusion
+Throughout the software engineering course, I learned concepts that go beyond just web application development. Concepts including coding standards, project management, and software engineering ethics are all fundamental core concepts that contribute to well-rounded software engineering best practices. These not only improve the quality and maintainability of the code, but also ensure that software is developed responsibly. From experience with tools such as GitHub and Vercel, to more conceptual experiences with Agile IDPM, I've been taught how to better approach software development in a better structured way that follows software development best practices. These experiences will help me write better, cleaner code and manage my work in a way that will be beneficial to me in any area of software engineering. 
+
+
+AI disclosure: AI was used for grammar checking and formatting
